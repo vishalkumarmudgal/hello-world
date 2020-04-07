@@ -1,2 +1,2 @@
 # hello-world
-just other repository
+print ("Hello World")
